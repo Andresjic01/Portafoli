@@ -18,7 +18,7 @@ section{
     display: flex;
 }
 #foto{
-    width: 35%;
+    width: 45%;
 }
 #foto img{
     height: 630px;
@@ -26,7 +26,7 @@ section{
 }
 
 #info{
-    width: 65%;
+    width: 55%;
     padding-left: 30px;
 }
 
